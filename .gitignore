@@ -2,3 +2,6 @@
 .DS_Store
 CMakeLists.txt.*
 build/
+.idea
+build-Attractor_MakeFile-Qt_6_3_1_for_macOS-Debug
+Attractors/Attractor_MakeFile/a.out
